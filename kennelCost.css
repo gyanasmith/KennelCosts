@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', monospace;
+}
+
+body h2{
+    text-align: center;
+    background-color: #B77A95;
+    border-radius: 50px;
+}
+
+select {
+    background-color: #D7ABBF;
+    border-radius: 10px;
+    border: none;
+}
+
+input {
+    background-color: #D7ABBF;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    background-color: #B77A95;
+    border-radius: 10px;
+    border: none;
+}
